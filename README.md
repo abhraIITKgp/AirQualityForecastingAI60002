@@ -1,6 +1,5 @@
 # AirQualityForecastingAI60002
 Term Paper for ML for Earth System Sciences course of Spring Sem 2022 at IIT Kgp
-Term Paper Link: https://abhraiitkgp.github.io/data/Air%20Quality%20Forecasting%20using%20Neural%20Networks.pdf
 
 Group members:
 - Abhranil Chandra (19ME30051)
